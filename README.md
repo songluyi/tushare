@@ -1,5 +1,6 @@
 TuShare
 ----
+##宋陆艺的个人测试测试使用
 ![](https://api.travis-ci.org/waditu/tushare.png?branch=master)
 [![](https://pypip.in/v/tushare/badge.png)](https://pypi.python.org/pypi/tushare/0.1.5)
 
