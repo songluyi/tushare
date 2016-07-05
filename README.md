@@ -1,6 +1,6 @@
 TuShare
 ----
-##宋陆艺的个人测试测试使用
+###为了学习大的框架而fork，这个源码的作者也比较nice 希望能加强自己的能力
 ![](https://api.travis-ci.org/waditu/tushare.png?branch=master)
 [![](https://pypip.in/v/tushare/badge.png)](https://pypi.python.org/pypi/tushare/0.1.5)
 
